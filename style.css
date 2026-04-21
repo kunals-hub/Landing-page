@@ -1,8 +1,4 @@
 body {
-  margin: 0;
-}
-
-.page {
   display: flex;
   flex-direction: column;
   font-family: Roboto;
@@ -150,8 +146,9 @@ blockquote {
   border-radius: 5px;
 }
 
-.footer {
+footer {
   padding: 10px 20px;
-  justify-content: center;
-  color: #f9faf8;
+  text-align: center;
+  color: black;
+  background-color: #e5e7eb;
 }
